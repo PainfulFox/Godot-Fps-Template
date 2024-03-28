@@ -49,6 +49,7 @@ environment = SubResource("Environment_3gd2w")
 transform = Transform3D(0.0410554, -0.893991, -0.4462, 0.637121, -0.320583, 0.700931, -0.76967, -0.31306, 0.556419, 0, 0, 0)
 
 [node name="Floor" type="CSGBox3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1.85351, 0)
 material_override = ExtResource("2_4ea62")
 use_collision = true
 size = Vector3(50, 0.05, 50)
