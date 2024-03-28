@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcbw44k6x4dvx"
-path.s3tc="res://.godot/imported/Concrete044D_1K-JPG_Roughness.jpg-8b49d825696c381a960f149eb8f0766d.s3tc.ctex"
+path.s3tc="res://.godot/imported/Concrete044D_1K-JPG_Roughness.jpg-aa7a376a8ed8942f03e02c3476aec609.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Materials/AmbientCG/Concrete/Concrete044D_1K-JPG_Roughness.jpg"
-dest_files=["res://.godot/imported/Concrete044D_1K-JPG_Roughness.jpg-8b49d825696c381a960f149eb8f0766d.s3tc.ctex"]
+source_file="res://materials/AmbientCG/Concrete/Concrete044D_1K-JPG_Roughness.jpg"
+dest_files=["res://.godot/imported/Concrete044D_1K-JPG_Roughness.jpg-aa7a376a8ed8942f03e02c3476aec609.s3tc.ctex"]
 
 [params]
 

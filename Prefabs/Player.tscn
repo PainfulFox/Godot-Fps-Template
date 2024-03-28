@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://cforwaj5nrsux"]
 
-[ext_resource type="Script" path="res://Scripts/p_base.gd" id="1_epxx5"]
-[ext_resource type="AudioStream" uid="uid://jr002cxfyc30" path="res://Audio/Footsteps/footstep.wav" id="1_gn3g7"]
+[ext_resource type="Script" path="res://scripts/p_base.gd" id="1_epxx5"]
+[ext_resource type="AudioStream" uid="uid://jr002cxfyc30" path="res://audio/Footsteps/footstep.wav" id="1_gn3g7"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_0nykh"]
 

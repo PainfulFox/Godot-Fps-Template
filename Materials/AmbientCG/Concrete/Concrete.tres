@@ -1,7 +1,7 @@
 [gd_resource type="StandardMaterial3D" load_steps=3 format=3 uid="uid://brivjqm8g7fjo"]
 
-[ext_resource type="Texture2D" uid="uid://crdnyt2ogs6to" path="res://Materials/AmbientCG/Concrete/Concrete044D_1K-JPG_Color.jpg" id="1_ur85i"]
-[ext_resource type="Texture2D" uid="uid://dmepq0mxnw3m8" path="res://Materials/AmbientCG/Concrete/Concrete044D_1K-JPG_NormalGL.jpg" id="2_c65e6"]
+[ext_resource type="Texture2D" uid="uid://crdnyt2ogs6to" path="res://materials/AmbientCG/Concrete/Concrete044D_1K-JPG_Color.jpg" id="1_ur85i"]
+[ext_resource type="Texture2D" uid="uid://dmepq0mxnw3m8" path="res://materials/AmbientCG/Concrete/Concrete044D_1K-JPG_NormalGL.jpg" id="2_c65e6"]
 
 [resource]
 cull_mode = 2
